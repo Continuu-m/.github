@@ -1,4 +1,4 @@
-## Hi there 👋
+## # dudes trying to create something useful
 
 <!--
 
